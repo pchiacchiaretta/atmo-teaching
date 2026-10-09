@@ -1,0 +1,45 @@
+LEZIONE 1 - COME ESEGUIRE GLI ESERCIZI PYTHON
+==============================================
+
+Scegli UNA delle due strade. Non devi installare niente di particolare
+e non servono "ambienti virtuali".
+
+
+STRADA A  (consigliata) - Google Colab, direttamente dal browser
+-----------------------------------------------------------------
+Funziona su qualsiasi computer, tablet o telefono con internet.
+Serve un account Google (anche quello della scuola va bene).
+
+  1. Vai su  https://colab.research.google.com
+  2. Clicca  File > Carica notebook  e scegli il file  lezione1.ipynb
+  3. Per ogni cella: clicca dentro e premi  Maiusc + Invio
+  4. Esegui le celle in ordine, dall'alto verso il basso.
+  5. Alla fine:  File > Scarica > Scarica .ipynb  e consegna il file.
+
+
+STRADA B - Sul tuo computer, SENZA installare librerie
+-----------------------------------------------------
+Serve solo Python 3 (https://www.python.org/downloads/).
+Il file  esercizi_lezione1.py  usa solo Python "puro".
+
+  1. Metti il file in una cartella.
+  2. Apri il file con un editor (va bene anche il Blocco note / IDLE),
+     completa le funzioni segnate TODO e salva.
+  3. Apri il terminale/prompt nella stessa cartella ed esegui:
+
+        Windows:        py esercizi_lezione1.py
+        macOS / Linux:  python3 esercizi_lezione1.py
+
+  4. Vedrai [OK] oppure [X] per ogni esercizio.
+     [ ] = esercizio ancora da completare.
+     Se tutto e' [OK] comparira' anche un grafico a barre in testo.
+
+
+SE QUALCOSA NON VA
+------------------
+ - "python non e' riconosciuto" -> prova  py  (Windows) oppure  python3 (Mac/Linux)
+ - Non riesci a far funzionare nulla? Usa la STRADA A: non richiede installazioni.
+ - Errore con una funzione? Rileggi l'unita' di misura: z in METRI, T in KELVIN
+   (tranne dew_point ed e_sat, che usano i gradi CELSIUS).
+
+Per domande: piero.chiacchiaretta@unich.it
