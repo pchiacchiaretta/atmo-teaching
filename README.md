@@ -100,7 +100,7 @@ Segnalazioni di errori e suggerimenti sono benvenuti: apri una [Issue](../../iss
 
 ### Come citare
 
-> Chiacchiaretta P. (2026). *Didattica di fisica dell'atmosfera e del clima*. Repository GitHub. https://github.com/UTENTE/udatmo-didattica
+> Chiacchiaretta P. (2026). *Didattica di fisica dell'atmosfera e del clima*. Repository GitHub. https://github.com/pchiacchiaretta/atmo-teaching
 
 ---
 
