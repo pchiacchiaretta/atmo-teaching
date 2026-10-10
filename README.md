@@ -37,7 +37,7 @@ Scegli **una** delle tre strade: contengono gli stessi esercizi e lo stesso cont
 Un'unica pagina web con **Python vero (numpy e matplotlib compresi)**: modifichi il codice a sinistra, premi **Esegui** (Ctrl+Invio) e a destra vedi risultati, controlli `[OK]` / `[X]` e grafici. Funziona come un'app e vale per **tutte le lezioni**.
 
 - **Offline (consigliato a scuola):**
-  1. Scarica [`laboratorio_python.html`](laboratorio_python.html) dalla cartella principale del repository: apri il file e usa il pulsante di download (⬇), oppure tasto destro su *Raw* → *Salva con nome*. Non aprirlo direttamente dall'anteprima di GitHub.
+  1. Scarica [`laboratorio_python.html`](liceo-poc-2026/laboratorio_python.html) dalla cartella principale del repository: apri il file e usa il pulsante di download (⬇), oppure tasto destro su *Raw* → *Salva con nome*. Non aprirlo direttamente dall'anteprima di GitHub.
   2. Copialo sul computer o su una chiavetta.
   3. Doppio clic: si apre nel browser (Chrome, Edge, Firefox, Safari). Attendi «pronto» (5–30 secondi).
   4. Menu in alto: scegli il file della lezione (esercizi o simulazioni) oppure **Apri .py…** per caricarne uno tuo.
