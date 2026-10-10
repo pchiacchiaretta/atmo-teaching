@@ -1,0 +1,55 @@
+LEZIONE 2 - Corpo nero, bilancio radiativo ed effetto serra
+Istruzioni per gli studenti
+===========================================================
+
+Obiettivo: completare 5 funzioni Python e arrivare a "6 su 6".
+Non serve installare niente.
+
+
+STRADA A - Google Colab (consigliata)
+-------------------------------------
+1. Apri https://colab.research.google.com e accedi con un account Google
+   (va bene anche quello della scuola).
+2. Menu File -> Carica notebook -> scegli lezione2.ipynb.
+3. Premi Maiusc + Invio su ogni cella, dall'alto verso il basso.
+4. Nelle celle con TODO cancella la riga "raise NotImplementedError"
+   e scrivi il tuo codice (di solito basta una riga con return).
+5. L'ultima cella ("Controllo finale") stampa [OK], [X] o [ ] per ogni esercizio.
+
+Funziona anche da tablet o telefono.
+Se qualcosa non va: Runtime -> Riavvia ed esegui tutto.
+
+
+STRADA B - Sul tuo computer, con Python 3
+-----------------------------------------
+1. Controlla di avere Python 3: apri un terminale (o il Prompt dei comandi)
+   e scrivi:   python3 --version      (su Windows a volte:  python --version)
+2. Metti esercizi_lezione2.py in una cartella e aprilo con un editor di testo
+   (va bene anche IDLE, che arriva con Python).
+3. Completa le funzioni segnate TODO.
+4. Dal terminale, nella stessa cartella:   python3 esercizi_lezione2.py
+
+Il file usa solo il modulo "math": nessuna libreria da installare.
+
+
+COME LEGGERE IL RISULTATO
+-------------------------
+  [OK]  l'esercizio e' corretto
+  [X]   risultato non corretto (o errore nel codice): ricontrolla la formula
+  [ ]   esercizio ancora da completare
+
+Obiettivo: 6 su 6.
+
+
+SUGGERIMENTI
+------------
+- Le temperature vanno SEMPRE in kelvin: T(K) = T(C) + 273.15
+- L'esponente 1/4 si scrive  ** 0.25
+- Esercizio 5 (sfida): parti dalla formula di Ts dell'esercizio 4 e
+  ricavane epsilon con un po' di algebra.
+
+
+CONSEGNA
+--------
+Invia a piero.chiacchiaretta@unich.it il file .ipynb (Colab: File -> Scarica)
+oppure il file .py completato, prima della prossima lezione.
