@@ -42,9 +42,9 @@ Un'unica pagina web con **Python vero (numpy e matplotlib compresi)**: modifichi
   3. Doppio clic: si apre nel browser (Chrome, Edge, Firefox, Safari). Attendi «pronto» (5–30 secondi).
   4. Menu in alto: scegli il file della lezione (esercizi o simulazioni) oppure **Apri .py…** per caricarne uno tuo.
   5. Per consegnare: **Scarica .py** e invia il file.
-- **Online (senza scaricare nulla):** apri [https://UTENTE.github.io/udatmo-didattica/laboratorio_python.html](https://UTENTE.github.io/udatmo-didattica/laboratorio_python.html) (GitHub Pages: va attivato una volta in *Settings → Pages*). Dopo il primo caricamento funziona anche senza rete.
+- **Online (senza scaricare nulla):** apri [https://github.com/pchiacchiaretta/atmo-teaching/blob/main/liceo-poc-2026/laboratorio_python.html](https://github.com/pchiacchiaretta/atmo-teaching/blob/main/liceo-poc-2026/laboratorio_python.html (GitHub Pages: va attivato una volta in *Settings → Pages*). Dopo il primo caricamento funziona anche senza rete.
 
-Note: il file pesa circa 25 MB (contiene Python); i file creati dal programma esistono solo dentro la pagina e spariscono alla chiusura, ma i grafici si vedono subito a destra; il lavoro si salva da solo nel browser. Dettagli in [`laboratorio-offline/LEGGIMI.txt`](laboratorio-offline/LEGGIMI.txt).
+Note: il file pesa circa 25 MB (contiene Python); i file creati dal programma esistono solo dentro la pagina e spariscono alla chiusura, ma i grafici si vedono subito a destra; il lavoro si salva da solo nel browser. Dettagli in [`liceo-poc-2026/README.txt`](liceo-poc-2026/README.txt).
 
 #### Strada B · Python sul tuo computer
 
